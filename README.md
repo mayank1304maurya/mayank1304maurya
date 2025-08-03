@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayankmaurya
 - 👀 I’m interested in ...Football
-- 🌱 I’m currently learning ...React.js
+- 🌱 I’m currently learning ...Data Analytics
 
 <!---
 mayank1304maurya/mayank1304maurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
